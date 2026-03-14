@@ -1,5 +1,5 @@
 # Skyrim TBRPG — Console RPG in C++
-##### Nikita Shubin
+##### Was made by Nikita Shubin
 
 
 This project is a text-based role-playing game in the style of The Elder Scrolls, written in C++. The game runs in the terminal and invites you to immerse yourself in the world of Skyrim with quests, monsters, and inventory.
